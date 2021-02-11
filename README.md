@@ -1,2 +1,2 @@
 # cs-guide
-Share computer science
+Share computer science knowledge
