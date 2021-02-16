@@ -1,5 +1,5 @@
 # cs-notes
-Share computer science knowledge.
+Share computer science knowledge. Details as following:
 
 - [Java](#java)
   - [基础](#基础)
