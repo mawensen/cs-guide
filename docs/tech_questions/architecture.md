@@ -24,3 +24,14 @@
 - Poor security environment: Due to the openness of the Internet, the Internet is more vulnerable to attacks, and large websites are attacked by hackers almost every day;
 - Rapid changes in demand and frequent releases: Unlike the release frequency of traditional software versions, Internet products quickly adapt to the market and meet user needs, and their product release frequencies are extremely high;
 - Progressive development: Unlike traditional software products or enterprise application systems that plan all functional and non-functional requirements from the beginning, almost all large-scale Internet websites start from a small website and develop gradually.
+
+#### Do you know about performance testing? Tell me about the performance testing tools you know?
+Performance testing refers to the use of automated testing tools to simulate a variety of normal, peak and abnormal load conditions to test various performance indicators of the system. Performance testing is a general term, usually subdivided into:
+- Benchmark test: When lower pressure is applied to the system, check the operating status of the system and record the relevant data as a basic reference
+- Load test: Refers to the continuous increase of pressure on the system or the duration under a certain pressure, until one or more performance indicators of the system reach a safety critical value, for example, a certain resource has reached a saturated state. At this time, continue to pressurize, and the processing capacity of the system will decrease.
+- Stress test: Under the condition of exceeding the safe load, keep applying pressure (increasing concurrent requests) until the system crashes or cannot handle any requests, so as to obtain the maximum stress tolerance of the system.
+- Stability test: The tested system runs for a long period of time under specific hardware, software, and network environment with a certain business pressure (simulating different time points in the production environment, uneven requests, showing wave characteristics) to check whether the system is stable.
+- The most commonly used testing tool for back-end programmers or testing is JMeter (official website: https://jmeter.apache.org/). Apache JMeter is a Java-based stress testing tool (100% pure Java application) designed to load test functional behavior and measure performance. It was originally designed for Web application testing but later expanded to other testing areas.
+
+#### Micro-Service Questions:
+https://www.knowledgehut.com/interview-questions/microservices
