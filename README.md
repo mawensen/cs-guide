@@ -5,7 +5,7 @@ Share computer science knowledge. Details as following:
   - [基础](#基础)
   - [容器](#容器)
   - [并发](#并发)
-  - [JVM (必看 :+1:)](#jvm-必看-1)
+  - [JVM (必看 :+1:)]
   - [新特性](#新特性)
 - [网络](#网络)
 - [操作系统](#操作系统)
